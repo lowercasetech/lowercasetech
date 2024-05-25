@@ -1,3 +1,1 @@
-# lowercase
-
-enabling insight generation
+# enabling insight generation
